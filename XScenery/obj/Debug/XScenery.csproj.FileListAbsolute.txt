@@ -1,0 +1,9 @@
+C:\Users\rudolf\documents\visual studio 2013\Projects\XScenery\XScenery\bin\Debug\XScenery.exe
+C:\Users\rudolf\documents\visual studio 2013\Projects\XScenery\XScenery\bin\Debug\XScenery.pdb
+C:\Users\rudolf\documents\visual studio 2013\Projects\XScenery\XScenery\obj\Debug\XScenery.MainForm.resources
+C:\Users\rudolf\documents\visual studio 2013\Projects\XScenery\XScenery\obj\Debug\XScenery.Properties.Resources.resources
+C:\Users\rudolf\documents\visual studio 2013\Projects\XScenery\XScenery\obj\Debug\XScenery.View.SceneryControl.resources
+C:\Users\rudolf\documents\visual studio 2013\Projects\XScenery\XScenery\obj\Debug\XScenery.csproj.GenerateResource.Cache
+C:\Users\rudolf\documents\visual studio 2013\Projects\XScenery\XScenery\obj\Debug\XScenery.exe
+C:\Users\rudolf\documents\visual studio 2013\Projects\XScenery\XScenery\obj\Debug\XScenery.pdb
+C:\Users\rudolf\Documents\Visual Studio 2013\Projects\XScenery\XScenery\obj\Debug\XScenery.csprojResolveAssemblyReference.cache
